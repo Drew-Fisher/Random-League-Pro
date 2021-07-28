@@ -1,0 +1,15 @@
+type Mutation{
+    getRandom(id:Int,role:String): Player
+}
+
+extend type Query {
+    player: Player
+}
+
+type Player{
+    id : Int
+    name : String
+    Img : String
+    role : String
+    current_team : Team
+}

@@ -1,0 +1,10 @@
+type Query{
+    getRunningSeries: [Series]
+}
+
+type Series{
+    SeriesID : Int
+    SeriesName : String
+    LeagueName : String
+    LeagueImg : String
+}
