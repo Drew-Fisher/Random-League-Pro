@@ -1,0 +1,11 @@
+spring:
+  values:
+    PandaScore:
+      info:
+        BaseURL: https://api.pandascore.co/lol/
+        RunningSeries: series/running
+        Series: series/
+        Teams-suf: /teams
+        Players: players
+      Secrets:
+        Token: wB1rJifKapIdM1OG3DBhpyQGbNcqnnzj195wSj1YO0ybWxklBMw
