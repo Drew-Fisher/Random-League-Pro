@@ -8,4 +8,4 @@ spring:
         Teams-suf: /teams
         Players: players
       Secrets:
-        Token: wB1rJifKapIdM1OG3DBhpyQGbNcqnnzj195wSj1YO0ybWxklBMw
+        Token: token
